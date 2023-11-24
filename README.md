@@ -51,5 +51,3 @@
     <img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoCarius&layout=compact&langs_count=4&theme=algolia&line"/>
   </p>
 </div>
-
-![Snake animation](https://github.com/RodolfoCarius/RodolfoCarius/blob/output/github-contribution-grid-snake.svg)
