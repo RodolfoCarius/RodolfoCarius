@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Trabalho na Markway Bussines como QA;
+- 🔭 Estudando TIC na FAETERJ - Petrópolis;
 - 🌱 Estou aprendendo automação com Rest Assured e Selenium;
 - 💻 As tecnologias que gosto de trabalhar são: Javascript, Java, Git, Postman e Notion;
 - 😍 Apaixonado por aprender, tecnologias, natureza e esportes;
